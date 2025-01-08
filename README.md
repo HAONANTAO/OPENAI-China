@@ -1,2 +1,2 @@
-# OPENAI-China
-CloseAI - useOPENAI API in china
+CloseAI Connection Guide
+Using the OPENAI - GPT - AI - API
